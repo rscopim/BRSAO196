@@ -7,4 +7,4 @@ match comando:
         print("Parando o sistema...")
     case _:
         print("Comando desconhecido...")
-        111111111
+        11111111

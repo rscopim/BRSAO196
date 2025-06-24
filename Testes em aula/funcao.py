@@ -1,5 +1,5 @@
 # Podemos defirnir a função usando "def"
-def saudacao():
+"""def saudacao():
     print("Bom dia!")
 
 def numero():
@@ -19,5 +19,17 @@ def some(a, b, c):
     return a + b +c
 print(some(a, b, c))
 
+def nome_da_funcao(parametro):
+    # bloco de código
+    return valor"""
+
+def dobro(numero):
+    return numero * 2 # Calculo de dobro de um número
+print(dobro(5))
+'''
+def = definir função
+dobro - variavel para receber um número
+
+'''
 
 
